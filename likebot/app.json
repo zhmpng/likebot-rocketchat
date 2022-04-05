@@ -1,0 +1,16 @@
+{
+    "id": "3f0b5875-4402-40e9-b86b-ee08da2764f3",
+    "version": "0.0.5",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "zhmpng",
+        "homepage": "https://github.com/zhmpng/likebot-rocketchat",
+        "support": "https://github.com/zhmpng/likebot-rocketchat/issues"
+    },
+    "name": "LikeBot",
+    "nameSlug": "likebot",
+    "classFile": "LikeBotApp.ts",
+    "description": "LikeBot for RocketChat",
+    "implements": []
+}
